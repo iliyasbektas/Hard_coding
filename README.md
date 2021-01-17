@@ -1,3 +1,1 @@
-# ADM_HW4
-These are scripts with some comments for HW4 for ADM course of Data Science Master's programm of Sapienza University.
-There is a main script with all work. 
+In this project, I create hashing algorithms from scratch and apply k-means clustering algorithm to Amazon food review data  
